@@ -1,7 +1,7 @@
 # Estilos y componentes básicos para Figma y Jekyll
 Una base para wireframes, diseño y desarrollo. Incluye estilos tipográficos, colores neutros, botones, enlaces, imágenes en diferentes proporciones, íconos, y algunos componentes.
 
-[fluorescente.design/estilos-y-componentes-básicos](https://fluorescente.design/estilos-y-componentes-básicos)
+[fluorescente.design/estilos-y-componentes-básicos](https://fluorescente.design/estilos-y-componentes-básicos){:target="_blank"}
 
 ## Para diseñar
 Archivo de Figma con estilos y componentes listos para usar como base en wireframes y diseños. Adaptado para celulares, tabletas y escritorio.
